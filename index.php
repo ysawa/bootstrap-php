@@ -106,7 +106,5 @@
          mentum massa justo sit amet risus.</p>
          mentum massa justo sit amet risus.</p>
          mentum massa j../assets/js/bootstrap-collapse.js"></script>
-    <script src="./bootstrap/js/bootstrap-carousel.js"></script>
-    <script src="./bootstrap/js/bootstrap-typeahead.js"></script>
   </body>
 </html>
